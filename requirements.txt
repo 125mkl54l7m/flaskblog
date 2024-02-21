@@ -1,4 +1,4 @@
-flask
+ÿþflask
 flask_bootstrap
 flask_ckeditor
 datetime
