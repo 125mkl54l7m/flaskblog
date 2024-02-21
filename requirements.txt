@@ -2,8 +2,8 @@ flask
 flask_bootstrap
 flask_ckeditor
 datetime
-werkzeug.security
 flask_sqlalchemy
+werkzeug == 3.0.1
 sqlalchemy.orm
 flask_login
 gunicorn == 21.2.0
